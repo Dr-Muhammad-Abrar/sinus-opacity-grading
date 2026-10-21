@@ -1,1 +1,20 @@
+# Environments and IDE
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Data and generated outputs (never commit the dataset or trained weights)
+data/
+outputs/
+*.pt
+*.pth
+
+# Private drafts
+manuscript/
+*.docx
 
