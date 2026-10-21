@@ -113,8 +113,7 @@ chance baseline for IoU; the ruler band remains in 71 of the 177 crops; the opac
 
 ## Citation
 
-[To be completed after publication.]
-
+The manuscript is not published yet. we will it once it get published.
 ## License
 
 Code: MIT (see `LICENSE`; replace the copyright holder first). The dataset has its own license and is not
