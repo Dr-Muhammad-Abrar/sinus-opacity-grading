@@ -1,0 +1,15 @@
+# Core
+numpy
+pandas
+pillow
+matplotlib
+opencv-python
+grad-cam          # provides the pytorch_grad_cam module used by src/05_gradcam.py
+
+# Deep learning (install the build that matches your CUDA version: https://pytorch.org)
+torch
+torchvision
+
+# Only src/06_ode_fitting.py (the appendix ODE fit) uses SciPy.
+# Everything else avoids scipy / scikit-learn on purpose (see README, "Notes").
+scipy
